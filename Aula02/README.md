@@ -36,7 +36,7 @@ Nome.to_f ou Nome.to_i # Transformará em 0.0 // 0
 **Métodos utilizados em strings:**
 
 * **variavel.length():** Retorna a quantidade de caracteres.
-* **variavel.slice(numero):** Retorna a posição de algum caractere ou uma area. Ex: variavel.slice(4) ou variavel.slice(1..3)
+* **variavel.slice(numero):** Retorna a posição de algum caractere ou uma area. Ex: variavel.slice(4) ou variavel.slice(1,3)
 * **variavel.upcase:** Retorna a string totalmente em maiuscula.
 * **variavel.downcase:** Retorna a string totalmente em minuscula.
 * **variavel.empty?:** Retorna se a string é vazia (boolean).
