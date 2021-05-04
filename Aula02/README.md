@@ -17,7 +17,7 @@
 
 * **to_s:** Converte valor para o tipo: String
 * **to_i:** Converte valor para o tipo: Integer
-* **to_f: **Converte valor para o tipo: Float
+* **to_f:** Converte valor para o tipo: Float
 
 ```ruby
 Nome = "Rafaella"
