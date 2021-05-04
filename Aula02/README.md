@@ -98,11 +98,11 @@ puts "Olá #{nome}, você tem #{idade} anos" # Retornará as variáveis com inte
   ```ruby
   nome = "Arthur"
   
-  if nome == "Arthur"
-      puts "Olá arthur"
-  elsif nome == "Rafaella"
+  if nome == "Arthur" # Verifica se nome é igual a "Arthur"
+      puts "Olá arthur" 
+  elsif nome == "Rafaella" # Verifica se nome é igual a "Rafaella"
       puts "Olá Rafa"
-  else
+  else # Caso nenhuma alternativa seja verdade será executado
       puts "Nome não reconhecido"
   end
   
