@@ -55,10 +55,6 @@
 
 * **Strings**: A classe String representa conjuntos de caracteres e são usadas para armazenar textos.
 
-* **Fixnum**: A classe Fixnum é uma subclasse de **Integer**. Quando digitamos um número inteiro no IRB ele se torna um fixnum. O Fixnum possui um limite de valor que pode armazenar, mas isso depende da arquitetura do seu computador computador.
-
-* **BigNum**: A classe Bignum é uma subclasse de **Integer**. Quando digitamos inteiros maiores que o **Fixnum** ele será declarado como **Bignum**.
-
 * **Operações**: Operações matemáticas poderão ser utilizadas diretamente no seu código, utilizando os métodos abaixo:
 
   ```
